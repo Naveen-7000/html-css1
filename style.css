@@ -1,4 +1,5 @@
 body {
+    color:#40514E;
     margin: 0;
     text-align: center;
     /* position: relative; */
@@ -20,7 +21,7 @@ h1 {
     font-size: 20px;
     font-weight: normal;
     color: #66BFBF;
-
+    padding-bottom:10px;
 }
 
 .top-container {
@@ -174,4 +175,7 @@ hr {
 .contact-me {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+.intro{
+    width:30%;
 }
