@@ -182,3 +182,12 @@ hr {
 /*     padding:0 auto 0 auto; */
     text-align:center;
 }
+a{
+  text-decoration:none;
+}
+a:hover{
+    color:#EAF6F6;
+}
+.copyright{
+    color:#EAF6F6;
+}
